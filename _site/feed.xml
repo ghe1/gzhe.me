@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>George He</title>
-    <description>Personal website for George He
+    <description>Personal website for George He. Template taken from Jekyll.
 </description>
-    <link>http://gzhe.me//</link>
-    <atom:link href="http://gzhe.me//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 10 Sep 2014 22:25:29 -0400</pubDate>
-    <lastBuildDate>Wed, 10 Sep 2014 22:25:29 -0400</lastBuildDate>
+    <link>http://gzhe.me/</link>
+    <atom:link href="http://gzhe.me/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 10 Sep 2014 23:02:36 -0400</pubDate>
+    <lastBuildDate>Wed, 10 Sep 2014 23:02:36 -0400</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Wed, 10 Sep 2014 17:14:15 -0400</pubDate>
-        <link>http://gzhe.me//jekyll/update/2014/09/10/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://gzhe.me//jekyll/update/2014/09/10/welcome-to-jekyll.html</guid>
+        <link>http://gzhe.me/jekyll/update/2014/09/10/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://gzhe.me/jekyll/update/2014/09/10/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
