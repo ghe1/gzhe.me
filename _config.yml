@@ -2,11 +2,11 @@
 title: George He
 email: ghe1@uchicago.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Personal website for George He
+  Personal website for George He. Template taken from Jekyll.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://gzhe.me" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://gzhe.me/" # the base hostname & protocol for your site
+# twitter_username: jekyllrb
+github_username:  ghe1
 
 # Build settings
 markdown: kramdown
